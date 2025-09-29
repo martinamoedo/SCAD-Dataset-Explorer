@@ -1,6 +1,6 @@
 # 🌍 SCAD Dataset Explorer
 
-An interactive *Streamlit application* to explore and analyse the *Social Conflict Analysis Database (SCAD)*.  
+An interactive *Streamlit application* to explore and analyze the *Social Conflict Analysis Database (SCAD)*.  
 It allows users to visualise patterns of social conflicts in *Africa* and *Latin America* between *1990 and 2018*, making complex data accessible through intuitive dashboards.
 
 ---
@@ -10,7 +10,7 @@ It allows users to visualise patterns of social conflicts in *Africa* and *Latin
 - 📊 *Event Explorer*: filter and map events by year, country, region, and type.  
 - ⚰️ *Fatalities Explorer*: choropleth maps of total deaths, with dynamic filters.  
 - 📈 *General Statistics*: KPIs, time trends, rankings, and heatmaps.  
-- 🕌 *Religious/Ethnic Conflicts*: identify and analyse events tagged with thematic keywords.  
+- 🕌 *Religious/Ethnic Conflicts*: identify and analyze events tagged with thematic keywords.  
 - 💾 *Data Export*: download filtered datasets or aggregated results as CSV files.  
 - 🎨 *User-friendly UI*: custom styling and responsive layout for clear insights.  
 - 📚 *Codebooks Access*: direct download of SCAD codebooks for variable definitions.  
